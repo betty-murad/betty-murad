@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @betty-murad
-- 👀 I’m interested in frontend development/ui ux design
-- 🌱 I’m currently learning react js
-- 💞️ I’m looking to collaborate on frontend projects
-- 📫 How to reach me @betty101
+- 👀 I’m interested in web development
 
 <!---
 betty-murad/betty-murad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
